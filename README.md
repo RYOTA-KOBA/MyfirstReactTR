@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## site URL
-https://ryota-koba.github.io/MyfirstReactTR/.
+https://ryota-koba.github.io/MyfirstReactTR/
 
 
 ## Available Scripts
