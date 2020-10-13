@@ -1,9 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## site URL
-https://ryota-koba.github.io/MyfirstReactTR/
-
 
 ## Available Scripts
 
